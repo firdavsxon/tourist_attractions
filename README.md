@@ -5,7 +5,7 @@ Whenever we are travel it is fun to make a list of places we want to visit. The 
 
 For Back-end there was used Flask framework.
 
-/static/styles.css: Basic css files to give the application some style and show off the benefits of template inheritance.
+`/static/styles.css`: Basic css files to give the application some style and show off the benefits of template inheritance.
 
 /templates/base.html: Template header file that the main template file will inherit from.
 
