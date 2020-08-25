@@ -47,3 +47,7 @@ input.up {
 input.del {
     background-color: #d9534f;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
